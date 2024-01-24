@@ -1,3 +1,1 @@
-let a = 5;
-console.log(a);
-// added all the files and saved it.
+// It is the 2nd commit
